@@ -1,7 +1,10 @@
 ## 21 Savage Fans
+
+<a href="https://user-auth-24yv.onrender.com/" rel="21 Savage site">Visit Site</a>
+
 ![Screenshot 2024-11-20 at 6 56 49 PM](https://github.com/user-attachments/assets/6e4f324a-1304-4d58-a230-dacd0b488bd8)
 
-<p>This application offers an interactive platform for fans of 21 Savage to explore and rank his songs. Users can add their favorite tracks to a dynamic and customizable list, assigning likes to the songs they love most. The songs with the highest number of likes rise to the top of the rankings, showcasing fan-favorite hits. Alternatively, users can express their preferences by disliking tracks or removing them from the list entirely. This personalized ranking system creates an evolving and engaging experience for fans to celebrate 21 Savage’s music catalog.</p>
+<p>This application provides an engaging platform where users can explore and interact with their favorite rappers. User authentication and login are integrated to ensure a personalized experience. By entering a rapper's stage name along with their birth name, users contribute to the creation of a dynamic and customizable list of artists. Each rapper can be "liked," with their popularity determined by the number of likes they receive, propelling them to the top of the rankings. Conversely, users can express disinterest by disliking rappers or removing them entirely from the list. This interactive system ensures a personalized and ever-evolving showcase of musical talent based on user preferences.</p>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
